@@ -4,7 +4,7 @@ My name is Gyeongchae Na. I have the following qualities:😎
 - Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner)
 - I/ESTJ Ambivert ꂒꂯ
 
-⚒ Tech Stack ⚒
+### ⚒ Tech Stack ⚒
 - Verilog HDL / DC / PT / TMAX / ICC / ICC2 / VCS (on centos Linux)
 - RISC-V / ARM, AMBA
 - C / C++ / MFC / Python / Tcl / R / Kotlin
