@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeongchae&nbspNa%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeongchae Na%20render&fontSize=90)
 
 [my github blog](https://gc-na.github.io "github blog로 이동")
 
