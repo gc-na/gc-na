@@ -1,16 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 [my github blog](https://gc-na.github.io "github blog로 이동")
 
-My name is Gyeongchae Na. I have the following qualities:
-
+My name is Gyeongchae Na. I have the following qualities:😎
 - I'm not afraid to be wrong, and I don't end up being wrong.
-- I'm extremely loyal to my career
-- I/ESTJ Ambivert
+- Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner)
+- I/ESTJ Ambivert ꂒꂯ
+
+⚒ Tech Stack ⚒
 - Verilog HDL / DC / PT / TMAX / ICC / ICC2 / VCS (on centos Linux)
 - RISC-V / ARM, AMBA
-- Trying to be trilingual.
-- C / C++ / MFC / Python / R / Kotlin
+- C / C++ / MFC / Python / Tcl / R / Kotlin
 - Atmega / STM / Arduino
-- Korean (Native) / English (Fluent) I'm not good at writing essay tbh. / Chinese (Beginner)
 
 What else do you need?
 
