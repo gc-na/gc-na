@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Gyeongchae%20Na%&fontSize=45)
-
 [my github blog](https://gc-na.github.io "github blog로 이동")
-
-My name is Gyeongchae Na. I have the following qualities:😎
+### My name is Gyeongchae Na. I have the following qualities:😎
 - I'm not afraid to be wrong, and I don't end up being wrong.
 - Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner)
 - I/ESTJ Ambivert ꂒꂯ
