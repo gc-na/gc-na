@@ -1,5 +1,4 @@
 [my github blog](https://gc-na.github.io "github blog로 이동")
-
 My name is Gyeongchae Na. I have the following qualities:😎
 - I'm not afraid to be wrong, and I don't end up being wrong.
 - Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner)
@@ -11,10 +10,7 @@ My name is Gyeongchae Na. I have the following qualities:😎
 - C / C++ / MFC / Python / Tcl / R / Kotlin
 - Atmega / STM / Arduino
 
-What else do you need?
-
 ### My story
-
 - I was born in 1997.
 - I like to blog about semiconductors, hiking, restaurants, and travel. I like to try __new__ things.
 <!-- I am preparing to enter law school⚖, and in the future I will become a patent attorney in the field of electronics. 👨‍🏫+👨‍🔧=🤯-->
