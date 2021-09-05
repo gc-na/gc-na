@@ -2,11 +2,11 @@
 ### My name is Gyeongchae Na. I have the following qualities:😎
 - I'm not afraid to be wrong, and I don't end up being wrong.
 - Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner)
-- I/ESTJ Ambivert ꂒꂯ
+- I/ESTJ Ambivert🤷‍♂️
 ### ⚒ Tech Stack ⚒
 - Verilog HDL / DC / PT / TMAX / ICC / ICC2 / VCS (on centos Linux)
 - RISC-V / ARM, AMBA
-- C / C++ / MFC / Python / Tcl / R / Kotlin
+- C / C++ / MFC / Python / Tcl / R / Kotlin🧑‍💻
 - Atmega / STM / Arduino
 ### My story
 - I was born in 1997.
