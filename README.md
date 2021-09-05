@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+[![Github blog](https://avatars.githubusercontent.com/u/9919?s=200&v=4)](https://gc-na.github.io)
+
 **gc-na/gc-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
