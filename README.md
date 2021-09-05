@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=GyeongchaeNa&fontSize=50&fontColor=d070fb)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=GyeongchaeNa&fontSize=50&fontColor=4a2578)
 [my github blog](https://gc-na.github.io "github blog로 이동")
 
 My name is Gyeongchae Na. I have the following qualities:😎
