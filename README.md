@@ -8,7 +8,7 @@
 - RISC-V / ARM, AMBA 📱
 - C / C++ / MFC / Python / Tcl / R / Kotlin / Django 🧑‍💻
 - Atmega / STM / Arduino 📻
-### My story
+### 📕 My story 📘
 - I was born in 1997.
 - I like to blog about semiconductors, hiking, restaurants, and travel. I like to try __new__ things.<!-- I am preparing to enter law school⚖, and in the future I will become a patent attorney in the field of electronics. 👨‍🏫+👨‍🔧=🤯-->
 - I worked at a National Museum of Modern and Contemporary Art🖼, Marina Bay Seoul🏩 and Hyundai Department Store🏬 for about 4 years.
