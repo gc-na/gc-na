@@ -5,7 +5,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gc-na.github.io/)](https://gc-na.github.io/)
 ### My name is Gyeongchae Na. I have the following qualities:😎
 - I'm not afraid to be wrong, and I don't end up being wrong.
-- Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner) I'm rying to be trilingual
+- Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner) I'm trying to be trilingual
 - I/ESTJ Ambivert🤷‍♂️
 ### 🛠 Tech Stack 🛠
 - Verilog HDL / DC(DCT,DCG) / PT / TMAX1,2 / ICC1, 2 / VCS (on centos Linux) 💻
