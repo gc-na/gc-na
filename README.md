@@ -19,3 +19,4 @@ Tbh I'm having some trouble remembering atm, so why don't you just visit [my git
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/gc-na)
 ![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnRFUeTsDl6bWVTygl4EMeA?style=social)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gc-na.github.io/)](https://gc-na.github.io/)
