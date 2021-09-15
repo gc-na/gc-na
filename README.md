@@ -16,3 +16,5 @@
 
 Tbh I'm having some trouble remembering atm, so why don't you just visit [my github blog](https://gc-na.github.io "github blog로 이동"), 
 [my Youtube channel](https://www.youtube.com/c/나경채반도체 "Youtube Channel로 이동") or [my daily blog](https://blog.naver.com/gc_na) and it will answer **all** your questions.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/gc-na)
