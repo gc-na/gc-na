@@ -8,7 +8,7 @@
 - Korean (Native) / English (Fluent) I'm not good at writing essay tbh.🤫 / Chinese (Beginner) I'm trying to be trilingual
 - I/ESTJ Ambivert🤷‍♂️
 ### 🛠 Tech Stack 🛠
-- Verilog HDL / DC(DCT,DCG) / PT1,2 / TMAX1,2 / ICC1, 2 / VCS (on centos Linux) 💻
+- Verilog HDL / DC(DCT,DCG) / PT / TMAX / ICC / VCS (on centos Linux) 💻
 - RISC-V / ARM, AMBA 📱
 - C / C++ / MFC / Python / Tcl / R / Kotlin / Django / Tcl 🧑‍💻
 - Atmega / STM / Arduino 📻
