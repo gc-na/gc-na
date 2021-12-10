@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack 🛠
 - Verilog HDL / DC(DCT,DCG) / PT / TMAX / ICC / VCS (on centos Linux) 💻
 - RISC-V / ARM, AMBA 📱
-- C / C++ / MFC / Python / Tcl / R / Kotlin / Django / Tcl 🧑‍💻
+- C / C++ / MFC / Python / Tcl / R / Kotlin / Django / Tcl (begginer) 🧑‍💻
 - Atmega / STM / Arduino 📻
 ### 📗 My story 📗
 - I was born in 1997.🍼
