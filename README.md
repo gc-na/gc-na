@@ -9,7 +9,6 @@
 - I/ESTJ Ambivert🤷‍♂️
 ### 🛠 Tech Stack 🛠
 - Verilog HDL / DC(DCT,DCG) / PT / TMAX / ICC1,2 / VCS 💻
-- RISC-V / ARM 📱
 - C / C++ / MFC / Python / Tcl / R / Kotlin / Django 🧑‍💻
 - Atmega / STM / Arduino 📻
 ### 📗 My story 📗
